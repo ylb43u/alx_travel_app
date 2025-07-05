@@ -1,0 +1,20 @@
+# Core Django
+Django>=4.2,<5.0
+
+# Django REST Framework
+djangorestframework>=3.14.0
+
+# CORS Headers for cross-origin requests
+django-cors-headers>=4.0.0
+
+# Swagger/OpenAPI auto documentation
+drf-yasg>=1.21.6
+
+# Celery for background tasks
+celery>=5.3.0
+
+# MySQL client for Django database backend
+mysqlclient>=2.2.0
+
+# Environment variable handler
+django-environ>=0.10.0
